@@ -7,7 +7,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)
+![License][(https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat&logo=apache&logoColor=white)
 
 A Python tool that converts CSV election data into a queryable SQLite database and lets you ask questions about voting patterns using natural language.
 
