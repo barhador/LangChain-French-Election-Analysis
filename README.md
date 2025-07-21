@@ -1,4 +1,4 @@
-LangChain-French-Election-Analysis
+## LangChain-French-Election-Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
